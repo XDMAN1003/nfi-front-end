@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nfi-front-end-asg/static/css/main.96f493c7.css",
+    "main.js": "/nfi-front-end-asg/static/js/main.d88f0ed8.js",
+    "static/media/test.jpg": "/nfi-front-end-asg/static/media/test.f6aaf98b0daf0ff92c8b.jpg",
+    "index.html": "/nfi-front-end-asg/index.html",
+    "main.d88f0ed8.js.map": "/nfi-front-end-asg/static/js/main.d88f0ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f493c7.css",
+    "static/js/main.d88f0ed8.js"
+  ]
+}
